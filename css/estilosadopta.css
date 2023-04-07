@@ -50,7 +50,7 @@ header{
     width: 330px;
     height: 630px;
     border-radius: 8px;
-    box-shadow: 0 2px 2xp gray;
+    box-shadow: 0 2px 2xp rgb(255, 255, 255);
     overflow: hidden;
     margin: 20px;
     text-align: center;
