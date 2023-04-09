@@ -31,9 +31,10 @@ body{
     top: 0;
     width: 100%;
     height:100% ;
-   background-size: cover;
+    background-size: cover;
     z-index: -1;
     filter: blur(5px);
+    background-image: url(img/contacto.jpg);
     
 }
 .caja_contacto{
@@ -47,10 +48,11 @@ body{
 }
 
 .izquierda{
+   
     height: 100%;
-    background-image: url(img/cat.jpg);
-    
     background-size: cover;
+    background: url(img/contacto.jpg)no-repeat center;
+    
 
 
 }
